@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**ByMarquez/ByMarquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Jesus Marquez, I'm from Mexico.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* HTML, CSS, SASS
+* PHP, Java, JS, Pyhton
+* LARAVEL, SPRING, ANGULAR
+* MySQL, SQLserver, SQLite
+* AWS: S3, Lambda, RDS, EC2
+* Teamwork, Continuous learning, Comitment, Responsible, Flexibility
+
+## Contact
+
+Find all of my socials and resume in my [website](https://bymarquez.github.io/Portafolio/)
